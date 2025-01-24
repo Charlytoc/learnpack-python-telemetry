@@ -22,7 +22,7 @@ $ npm install -g @learnpack/python
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@learnpack/python/1.0.4 win32-x64 node-v20.10.0
+@learnpack/python/1.0.5 win32-x64 node-v20.10.0
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND
